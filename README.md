@@ -1,0 +1,2 @@
+# Classes Coding Challenge
+This was a text adventure game I wrote from scratch in the first half of 2023 to teach myself classes and object-oriented programming in Python. It certainly isn't the most fun game to play, but I had fun learning and writing it which was the aim! I stopped this project, not finishing it, because I then started using these skills in my job which was a much more efficient way of cementing this knowledge than a little project in my spare time.
